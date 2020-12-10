@@ -6,12 +6,10 @@ import {
   ChipType,
 } from "./../workspace/PuzzleData";
 import { Progress } from "./Progress";
-import { Globals } from "../globals";
-import { ButtonInfo } from "../gamepad/ButtonInfo";
 import { Polyscript } from "./../polyscript/Polyscript";
 import { DBRecord } from "./../database/DatabaseManager";
 import { getSystemTags } from "./SystemTags";
-import i18next from "i18next";
+import { Globals } from "../globals";
 
 /** namespace for all info classes related to brain. import this to get everything info related */
 export namespace PolyInfo {
@@ -1865,34 +1863,6 @@ export namespace PolyInfo {
       };
       console.log("arData serialized", JSON.stringify(temp));
       return JSON.stringify(temp);
-    }
-  }
-
-  //** an intermediate data format for sending information to the XR container app */
-  export class ArBoardInfo {
-    /** the shareId of the {PolyInfo.WorldInfo} this represents */
-    id: string;
-    isEdit: boolean;
-    isEditable: boolean;
-    mesh: string;
-    chips: ArBoardChipInfo[];
-    soundEffect?: boolean;
-
-    gamepadButtons: ButtonInfo[];
-
-    static toJson(board: ArBoardInfo): string {
-      var tempChips: string[] = board.chips.map((chip) => {
-        return ArBoardChipInfo.minify(chip);
-      });
-      return JSON.stringify({
-        id: board.id,
-        mesh: board.mesh,
-        isEdit: board.isEdit,
-        isEditable: board.isEditable,
-        chips: tempChips,
-        soundEffect: board.soundEffect,
-        gamepadButtons: board.gamepadButtons,
-      });
     }
   }
 

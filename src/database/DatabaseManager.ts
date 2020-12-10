@@ -1,3 +1,5 @@
+// stub for DatabaseManager from main Polyup project.
+
 export abstract class DBRecord {
   static nextClientRecordId: number = 1;
 
