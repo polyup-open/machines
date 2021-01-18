@@ -1,0 +1,4496 @@
+{
+    "userAccountId": 55657,
+    "uuid": "omVn2nwhMGAjUaXsWEMBuXBgB",
+    "shareId": "MCEHVVW",
+    "name": "Number Sense",
+    "data": "{\"dataModelVersion\":2,\"cameraType\":\"3D\"}",
+    "grid": null,
+    "rootComponentId": 0,
+    "active": true,
+    "status": 0,
+    "originalMachineHistoryId": 240021,
+    "createdAt": "2020-12-18T19:19:37.000Z",
+    "createdBy": 55657,
+    "updatedAt": "2021-01-03T01:59:36.000Z",
+    "updatedBy": 55657,
+    "isDefault": false,
+    "isEditable": false,
+    "version": 2,
+    "bucketId": null,
+    "strings": {
+        "en": {
+            "name": "Number Sense"
+        }
+    },
+    "description": null,
+    "inappropriate": false,
+    "isPublic": false,
+    "id": 121743,
+    "components": [
+        {
+            "machineId": 121743,
+            "componentId": 1446386,
+            "parentMachineComponentId": 0,
+            "data": null,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0,
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-18T19:19:37.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-18T19:19:37.000Z",
+            "updatedBy": 55657,
+            "id": 1431542,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "EbE0nnsuVPhw9giuxXzfqAaWW",
+                "shareId": "BVJCHSX",
+                "name": "Tray",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": null,
+                "active": true,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-18T19:19:37.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-18T19:19:37.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": null,
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "Tray"
+                    }
+                },
+                "description": null,
+                "type": 1,
+                "memory": null,
+                "localId": 2,
+                "id": 1446386,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1446385,
+            "parentMachineComponentId": 0,
+            "data": null,
+            "position": {
+                "x": 2,
+                "y": 0,
+                "z": -2,
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-18T19:19:37.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-18T19:19:37.000Z",
+            "updatedBy": 55657,
+            "id": 1431543,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "hcwRmvEihFqzoCewHueHfGWtS",
+                "shareId": "BWXUPE3",
+                "name": "Feedback Challenge",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": null,
+                "active": true,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-18T19:19:37.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-18T19:19:37.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/machine/assets/3d/scene-master.json[trophy-prize]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "Feedback Challenge"
+                    }
+                },
+                "description": null,
+                "type": 102,
+                "memory": null,
+                "localId": 5,
+                "id": 1446385,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1446389,
+            "parentMachineComponentId": 1458096,
+            "data": null,
+            "position": {
+                "x": 0,
+                "y": -0.6699434171686207,
+                "z": -0.4250232272809702,
+                "rx": -1.5707963267948966,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "anchor": 3,
+                "rootAnchor": 0
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-18T19:19:37.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T15:43:34.000Z",
+            "updatedBy": 55657,
+            "id": 1431544,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "kUKvMPQ8QjmjwISLsKU79DGlQ",
+                "shareId": "BNS4E9M",
+                "name": "Poly",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": null,
+                "active": true,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-18T19:19:37.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-18T19:19:37.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": null,
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "Poly"
+                    }
+                },
+                "description": null,
+                "type": 2,
+                "memory": null,
+                "localId": 6,
+                "id": 1446389,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1446388,
+            "parentMachineComponentId": 0,
+            "data": null,
+            "position": {
+                "x": -2,
+                "y": 0,
+                "z": -2,
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-18T19:19:37.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-18T19:19:37.000Z",
+            "updatedBy": 55657,
+            "id": 1431545,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "TT8ZIi44F5p2mqO3zsYvK5C5N",
+                "shareId": "BF4XTKT",
+                "name": "Lesson Challenge",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": null,
+                "active": true,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-18T19:19:37.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-18T19:19:37.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/machine/assets/3d/scene-master.json[trophy-prize]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "Lesson Challenge"
+                    }
+                },
+                "description": null,
+                "type": 100,
+                "memory": null,
+                "localId": 3,
+                "id": 1446388,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1446392,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": 6.5,
+                "y": 0.5,
+                "z": 10.783735834214532,
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-18T19:19:37.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:35:26.000Z",
+            "updatedBy": 55657,
+            "id": 1431546,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "22o9TTA8HEJrndCW1v9fg0yrS",
+                "shareId": "BSV7JJX",
+                "name": "WoodenCube",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "colorable,origLib:wooden,origId:1225793",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-18T19:19:37.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:35:31.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/WoodenBlock/Shapes.json[cube]",
+                "bucketId": null,
+                "strings": {},
+                "description": null,
+                "type": 0,
+                "memory": "{\"color\":{\"type\":1008,\"data\":\"Color[0,128,255]\"}}",
+                "localId": 19,
+                "id": 1446392,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1446393,
+            "parentMachineComponentId": 1431549,
+            "data": null,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0,
+                "rx": 0,
+                "ry": 1.5707963267948963,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "anchor": 5,
+                "rootAnchor": 0
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-18T19:19:37.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-18T19:19:38.000Z",
+            "updatedBy": 55657,
+            "id": 1431547,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "PHCjaTvHEluzPA2VJ1sbaxJGX",
+                "shareId": "BFATA4S",
+                "name": "Cylinder 3",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:advanced,origId:1225789",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-18T19:19:37.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:35:31.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/v2builtin/cylinder.json",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "Cylinder 3"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": null,
+                "localId": 21,
+                "id": 1446393,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1446387,
+            "parentMachineComponentId": 0,
+            "data": null,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": -2,
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-18T19:19:37.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-18T19:19:37.000Z",
+            "updatedBy": 55657,
+            "id": 1431548,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "SiXCsBPfDUiuVX8EDuxFLYLQy",
+                "shareId": "BAUJ9EC",
+                "name": "Goal Chip Challenge",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": null,
+                "active": true,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-18T19:19:37.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-18T19:19:37.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/machine/assets/3d/scene-master.json[trophy-prize]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "Goal Chip Challenge"
+                    }
+                },
+                "description": null,
+                "type": 101,
+                "memory": null,
+                "localId": 4,
+                "id": 1446387,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1446390,
+            "parentMachineComponentId": 1431551,
+            "data": null,
+            "position": {
+                "x": -4.440892098500626e-16,
+                "y": -2.220446049250313e-16,
+                "z": 1.1102230246251565e-16,
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "anchor": 1,
+                "rootAnchor": 4
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-18T19:19:37.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-18T19:19:38.000Z",
+            "updatedBy": 55657,
+            "id": 1431549,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "YECR1PoGEIPGrK2mqxFg34PNc",
+                "shareId": "BYCNN9X",
+                "name": "WoodenCube 1",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "colorable,origLib:wooden,origId:1225793",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-18T19:19:37.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:35:31.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/WoodenBlock/Shapes.json[cube]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "WoodenCube 1"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": "{\"color\":{\"type\":1008,\"data\":\"Color[255,0,128]\"}}",
+                "localId": 20,
+                "id": 1446390,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1446391,
+            "parentMachineComponentId": 1431552,
+            "data": null,
+            "position": {
+                "x": 1.1102230246251565e-16,
+                "y": -8.881784197001252e-16,
+                "z": -4.440892098500626e-16,
+                "rx": 0,
+                "ry": 1.5707963267948963,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "anchor": 5,
+                "rootAnchor": 0
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-18T19:19:37.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-18T19:19:37.000Z",
+            "updatedBy": 55657,
+            "id": 1431550,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "QPZzrZsG4rPrx62UKOurURczw",
+                "shareId": "BEENVC4",
+                "name": "Cylinder 1",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:advanced,origId:1225789",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-18T19:19:37.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:35:31.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/v2builtin/cylinder.json",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "Cylinder 1"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": null,
+                "localId": 10,
+                "id": 1446391,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1446396,
+            "parentMachineComponentId": 1431546,
+            "data": null,
+            "position": {
+                "x": 1.1102230246251565e-16,
+                "y": 0,
+                "z": -8.881784197001252e-16,
+                "rx": 0,
+                "ry": 1.5707963267948963,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "anchor": 5,
+                "rootAnchor": 0
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-18T19:19:37.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-18T19:19:37.000Z",
+            "updatedBy": 55657,
+            "id": 1431551,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "NuyC9YP7rRH0sTlZ2vEbyV1fa",
+                "shareId": "B3CJN9H",
+                "name": "Cylinder",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:advanced,origId:1225789",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-18T19:19:37.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:35:31.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/v2builtin/cylinder.json",
+                "bucketId": null,
+                "strings": null,
+                "description": null,
+                "type": 0,
+                "memory": null,
+                "localId": 8,
+                "id": 1446396,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1446395,
+            "parentMachineComponentId": 1431547,
+            "data": null,
+            "position": {
+                "x": 4.440892098500626e-16,
+                "y": 0,
+                "z": 3.3306690738754696e-16,
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "anchor": 1,
+                "rootAnchor": 4
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-18T19:19:37.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-18T19:19:38.000Z",
+            "updatedBy": 55657,
+            "id": 1431552,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "0AYm4FBCDAckREbAqce9VCVhy",
+                "shareId": "BAMK4FV",
+                "name": "WoodenCube 2",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "colorable,origLib:wooden,origId:1225793",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-18T19:19:37.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:35:31.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/WoodenBlock/Shapes.json[cube]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "WoodenCube 2"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": "{\"color\":{\"type\":1008,\"data\":\"Color[0,128,255]\"}}",
+                "localId": 23,
+                "id": 1446395,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1446394,
+            "parentMachineComponentId": 1431550,
+            "data": null,
+            "position": {
+                "x": 5.551115123125783e-16,
+                "y": 6.661338147750939e-16,
+                "z": 1.1102230246251565e-16,
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "anchor": 1,
+                "rootAnchor": 4
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-18T19:19:37.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-18T19:19:38.000Z",
+            "updatedBy": 55657,
+            "id": 1431553,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "tSi6Nf6w1Y0ZKQoVZLnxagJrJ",
+                "shareId": "BMMAUSN",
+                "name": "WoodenCube 3",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "colorable,origLib:wooden,origId:1225793",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-18T19:19:37.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:35:31.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/WoodenBlock/Shapes.json[cube]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "WoodenCube 3"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": "{\"color\":{\"type\":1008,\"data\":\"Color[255,0,128]\"}}",
+                "localId": 24,
+                "id": 1446394,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1446397,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": 4.836873495876563,
+                "y": 0.5,
+                "z": 8.74697846929447,
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-18T19:19:37.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:21:29.000Z",
+            "updatedBy": 55657,
+            "id": 1431554,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "M8g10Gf9azs3ag8dGYxPf4Mlg",
+                "shareId": "BJWRYPU",
+                "name": "Sphere 2",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:wooden,origId:1225811,colorable",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-18T19:19:37.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:21:34.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/WoodenBlock/woodenSphere.json[sphere]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "Sphere 2"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": "{\"color\":{\"type\":1008,\"data\":\"Color[0,255,128]\"}}",
+                "localId": 25,
+                "id": 1446397,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1472745,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": 5,
+                "y": 0.5,
+                "z": 4,
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T14:49:50.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T14:49:52.000Z",
+            "updatedBy": 55657,
+            "id": 1457667,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "fdaDYVGH3aghvkOLGe9OELxxE",
+                "shareId": "BX3ECTU",
+                "name": "Sphere",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:block,origId:1225826,colorable",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T14:49:50.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T14:49:53.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/WoodenBlock/woodenNoTexture.json[sphere]",
+                "bucketId": null,
+                "strings": {},
+                "description": null,
+                "type": 0,
+                "memory": null,
+                "localId": 26,
+                "id": 1472745,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1472746,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": 6.580712063257312,
+                "y": 8.880712063257308,
+                "z": -3.25,
+                "rx": 0.7853981633974482,
+                "ry": -1.5707963267948963,
+                "rz": 7.850462293418875e-17,
+                "sx": 2,
+                "sy": 2,
+                "sz": 2,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T14:49:57.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:49:03.000Z",
+            "updatedBy": 55657,
+            "id": 1457668,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "KntTRVsodwlvLM8HCTT5KgDWb",
+                "shareId": "BKNTJW7",
+                "name": "Moon",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:wooden,origId:1225811,colorable",
+                "active": true,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T14:49:56.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T14:54:14.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/WoodenBlock/woodenSphere.json[sphere]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "Moon"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": "{\"color\":{\"type\":1008,\"data\":\"Color[255,255,255]\"}}",
+                "localId": 27,
+                "id": 1472746,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1472748,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": 9,
+                "y": 0.5,
+                "z": 4.378745976586229,
+                "rx": -5.551115123125783e-17,
+                "ry": 1.5707963267948963,
+                "rz": 1.5707963267948963,
+                "sx": 0.5302734375,
+                "sy": 0.5302734375,
+                "sz": 0.5302734375,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T14:50:57.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T14:52:13.000Z",
+            "updatedBy": 55657,
+            "id": 1457670,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "Hbl3dBFungb9opZGQyp81h8FH",
+                "shareId": "BMTHWK9",
+                "name": "WoodenSemioctaFlat",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "colorable,origLib:wooden,origId:1225812",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T14:50:57.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T14:52:15.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/WoodenBlock/Shapes.json[semiocta-flat]",
+                "bucketId": null,
+                "strings": {},
+                "description": null,
+                "type": 0,
+                "memory": null,
+                "localId": 28,
+                "id": 1472748,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1472751,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": 9,
+                "y": 0.5,
+                "z": 2.5,
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T14:51:38.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T14:51:57.000Z",
+            "updatedBy": 55657,
+            "id": 1457673,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "JrFOKFIAuXng6MJ5iKfHkk8iN",
+                "shareId": "BFTHMW9",
+                "name": "Cube",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:drone,origId:1225755,colorable",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T14:51:38.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T14:52:23.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/Drone/Copter_Scene.json[5]",
+                "bucketId": null,
+                "strings": {},
+                "description": null,
+                "type": 0,
+                "memory": null,
+                "localId": 29,
+                "id": 1472751,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1472755,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": 8,
+                "y": 0,
+                "z": 4.5,
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T14:52:31.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T14:52:32.000Z",
+            "updatedBy": 55657,
+            "id": 1457677,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "BB8gpBA11buNWj8jlKgS6zVMx",
+                "shareId": "BTSMHXV",
+                "name": "5-square",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "colorable,origLib:flat,origId:1225831",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T14:52:31.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T15:32:37.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/FlatShapes/flatShapes.json[5-square]",
+                "bucketId": null,
+                "strings": {},
+                "description": null,
+                "type": 0,
+                "memory": null,
+                "localId": 30,
+                "id": 1472755,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1472756,
+            "parentMachineComponentId": 1457677,
+            "data": null,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 3.5085237531018024e-18,
+                "rx": 0,
+                "ry": 0.5235987755982987,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "anchor": 1,
+                "rootAnchor": 1
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T14:52:36.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T14:52:40.000Z",
+            "updatedBy": 55657,
+            "id": 1457678,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "G4VZXbVgwyeZhZp4REvCSjdC9",
+                "shareId": "BA7V7WX",
+                "name": "1-equilateral-triangle",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "colorable,origLib:flat,origId:1225830",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T14:52:36.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T14:52:54.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/FlatShapes/flatShapes.json[1-equilateral-triangle]",
+                "bucketId": null,
+                "strings": {},
+                "description": null,
+                "type": 0,
+                "memory": null,
+                "localId": 31,
+                "id": 1472756,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1472757,
+            "parentMachineComponentId": 1457678,
+            "data": null,
+            "position": {
+                "x": 1.7763568394002505e-15,
+                "y": -4.440892098500626e-16,
+                "z": -2.998496633280223e-19,
+                "rx": 0,
+                "ry": 0.5235987755982987,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "anchor": 2,
+                "rootAnchor": 1
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T14:52:44.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T14:52:50.000Z",
+            "updatedBy": 55657,
+            "id": 1457679,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "QY9AxsToL61L9CRKq2ds7EYZI",
+                "shareId": "BEE4U7M",
+                "name": "1-equilateral-triangle 1",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "colorable,origLib:flat,origId:1225830",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T14:52:44.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T14:52:54.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/FlatShapes/flatShapes.json[1-equilateral-triangle]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "1-equilateral-triangle 1"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": null,
+                "localId": 32,
+                "id": 1472757,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1472760,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": -12.5,
+                "y": 10.498635502810318,
+                "z": -4.652194854187916,
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 10,
+                "sy": 10,
+                "sz": 10,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T14:54:44.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:49:51.000Z",
+            "updatedBy": 55657,
+            "id": 1457682,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "9lArP1jpraDPnAdOAzJVOarLR",
+                "shareId": "B7SFFNK",
+                "name": "Sun",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:wooden,origId:1225811,colorable",
+                "active": true,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T14:54:44.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T15:31:59.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/WoodenBlock/woodenSphere.json[sphere]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "Sun"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": "{\"color\":{\"type\":1008,\"data\":\"Color[255,199,14]\"}}",
+                "localId": 33,
+                "id": 1472760,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1472878,
+            "parentMachineComponentId": 1457801,
+            "data": null,
+            "position": {
+                "x": -3.30872245021211e-23,
+                "y": 0,
+                "z": 5.5511151231257815e-17,
+                "rx": 9.679612601959197e-23,
+                "ry": 1.5707963267948972,
+                "rz": -5.293955920339382e-23,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "anchor": 1,
+                "rootAnchor": 1
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T15:06:39.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:25:22.000Z",
+            "updatedBy": 55657,
+            "id": 1457800,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "gek83myXoNXGe7IJahBu1pB0J",
+                "shareId": "BKUWVRN",
+                "name": "WoodenDome",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "colorable,origLib:wooden,origId:1225803",
+                "active": true,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T15:06:39.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:25:33.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/WoodenBlock/Shapes.json[dome]",
+                "bucketId": null,
+                "strings": {},
+                "description": null,
+                "type": 0,
+                "memory": "{\"color\":{\"type\":1008,\"data\":\"Color[0,128,255]\"}}",
+                "localId": 34,
+                "id": 1472878,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1472879,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": 0,
+                "y": 2,
+                "z": -3.25,
+                "rx": 0,
+                "ry": 0,
+                "rz": -0.7853981633974484,
+                "sx": 5,
+                "sy": 5,
+                "sz": 5,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T15:06:48.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:48:37.000Z",
+            "updatedBy": 55657,
+            "id": 1457801,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "GL1BzrAqryxRivMlNtz2RhZjG",
+                "shareId": "BATJYP9",
+                "name": "Earth",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "colorable,origLib:wooden,origId:1225803",
+                "active": true,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T15:06:47.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T15:29:56.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/WoodenBlock/Shapes.json[dome]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "Earth"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": "{\"color\":{\"type\":1008,\"data\":\"Color[0,255,0]\"}}",
+                "localId": 35,
+                "id": 1472879,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473174,
+            "parentMachineComponentId": 1457801,
+            "data": null,
+            "position": {
+                "x": 3.626773164892689e-17,
+                "y": 0.46198211383462484,
+                "z": 3.626773164892693e-17,
+                "rx": 7.850462293418877e-17,
+                "ry": 1.5707963267948963,
+                "rz": 7.850462293418875e-17,
+                "sx": 0.16015625,
+                "sy": 0.16015625,
+                "sz": 0.16015625,
+                "anchor": 0,
+                "rootAnchor": 2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T15:32:58.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:47:31.000Z",
+            "updatedBy": 55657,
+            "id": 1458096,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "h3AMkvd6s7JbQdwYlO4fmO3Kg",
+                "shareId": "BAFTR7W",
+                "name": "Rocket",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:basicParts,origId:1225720,colorable",
+                "active": true,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T15:32:58.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T15:32:59.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/Tutorial/meet_parts.json[poly_rocket]",
+                "bucketId": null,
+                "strings": {},
+                "description": null,
+                "type": 0,
+                "memory": null,
+                "localId": 36,
+                "id": 1473174,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473392,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": 14.814607991816143,
+                "y": 0.5,
+                "z": 16.87479757852712,
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T15:51:05.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T15:51:11.000Z",
+            "updatedBy": 55657,
+            "id": 1458314,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "5A28BUnD5ajVj7e2xJzjg3i10",
+                "shareId": "B4VYENT",
+                "name": "Sphere",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:basicParts,origId:1225715",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T15:51:05.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T15:51:13.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/v2builtin/sphere.json",
+                "bucketId": null,
+                "strings": null,
+                "description": null,
+                "type": 0,
+                "memory": null,
+                "localId": 37,
+                "id": 1473392,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473397,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": -8.654218840959958,
+                "y": 0.6646004192153714,
+                "z": 1,
+                "rx": 1.0471975511965976,
+                "ry": 0.523598775598299,
+                "rz": 1.1102230246251563e-16,
+                "sx": 1.5,
+                "sy": 1.5,
+                "sz": 1.5,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T15:51:35.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:45:23.000Z",
+            "updatedBy": 55657,
+            "id": 1458319,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "fiz8YTqgH5hniA1Bm0eQ0FNDK",
+                "shareId": "B7VU7UE",
+                "name": "star",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:basicParts,origId:1225719,colorable",
+                "active": true,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T15:51:34.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:26:13.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/Tutorial/meet_parts.json[star]",
+                "bucketId": null,
+                "strings": {},
+                "description": null,
+                "type": 0,
+                "memory": "{\"color\":{\"type\":1008,\"data\":\"Color[0,255,255]\"}}",
+                "localId": 38,
+                "id": 1473397,
+                "chips": [
+                    {
+                        "componentId": 1473397,
+                        "chipId": 1422735,
+                        "data": null,
+                        "position": {
+                            "x": -0.0022254155871337393,
+                            "y": -2.2692958623338205e-13,
+                            "z": -0.01127507497909619,
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1.0009765625,
+                            "sy": 1.0009765625,
+                            "sz": 1.0009765625
+                        },
+                        "isRoot": null,
+                        "createdAt": "2020-12-18T19:19:38.000Z",
+                        "createdBy": 55657,
+                        "updatedAt": "2020-12-21T16:16:16.000Z",
+                        "updatedBy": 55657,
+                        "sortOrder": null,
+                        "componentGridCode": null,
+                        "id": 1417504,
+                        "chip": {
+                            "userAccountId": 55657,
+                            "uuid": "K0XKgPUyZWrz59dgGubSezwQi",
+                            "shareId": "CPSEWVH",
+                            "name": "Story Chip",
+                            "data": {
+                                "goal": "In this machine, we learn how to do operations on a number to get another number. This will help us to understand number patterns in future!",
+                                "inputs": [],
+                                "inputWorkspaces": [],
+                                "workspace": [
+                                    {
+                                        "name": "Poly",
+                                        "blocks": [],
+                                        "inputs": []
+                                    }
+                                ],
+                                "solution": [
+                                    {
+                                        "name": "Poly",
+                                        "blocks": [],
+                                        "inputs": []
+                                    }
+                                ],
+                                "blocks": [],
+                                "metadata": {
+                                    "stackMetadata": {},
+                                    "solutionMetadata": {},
+                                    "requireMod": false,
+                                    "infiniteProgramCutoff": -1,
+                                    "sequenceLength": -1,
+                                    "sequenceMaxSteps": -1,
+                                    "numberMode": 0,
+                                    "showGoal": true,
+                                    "showAtStart": true,
+                                    "icon": "polymoji_book_info"
+                                },
+                                "version": 13,
+                                "solutionModified": false,
+                                "chipType": "text"
+                            },
+                            "script": null,
+                            "goals": null,
+                            "tags": null,
+                            "systemTags": null,
+                            "active": true,
+                            "status": 0,
+                            "originalChipHistoryId": null,
+                            "createdAt": "2020-12-18T19:19:37.000Z",
+                            "createdBy": 55657,
+                            "updatedAt": "2020-12-18T19:19:37.000Z",
+                            "updatedBy": 55657,
+                            "isEditable": false,
+                            "bucketId": null,
+                            "strings": {
+                                "en": {
+                                    "name": "Story Chip",
+                                    "description": "In this machine, we learn how to do operations on a number to get another number. This will help us to understand number patterns in future!"
+                                }
+                            },
+                            "description": null,
+                            "localId": 10,
+                            "id": 1422735,
+                            "userProgress": []
+                        }
+                    }
+                ],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473506,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": -3.8967733631665706,
+                "y": 14.309993800779646,
+                "z": 1.4655144707630001,
+                "rx": 1.4165971691504367,
+                "ry": 3.141592653589793,
+                "rz": 3.141592653589793,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T16:01:10.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:45:02.000Z",
+            "updatedBy": 55657,
+            "id": 1458428,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "b2ymtQDoTAgJ0peMP7Qwji890",
+                "shareId": "BUM3RW4",
+                "name": "star 1",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:basicParts,origId:1225719,colorable",
+                "active": true,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T16:01:09.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:07:55.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/Tutorial/meet_parts.json[star]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "star 1"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": "{\"color\":{\"type\":1008,\"data\":\"Color[0,255,255]\"}}",
+                "localId": 39,
+                "id": 1473506,
+                "chips": [
+                    {
+                        "componentId": 1473506,
+                        "chipId": 1441013,
+                        "data": null,
+                        "position": {
+                            "x": 0.08600903515764458,
+                            "y": -3.3306690738754696e-16,
+                            "z": -0.2475919171288279,
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1
+                        },
+                        "isRoot": null,
+                        "createdAt": "2021-01-03T01:53:01.000Z",
+                        "createdBy": 55657,
+                        "updatedAt": "2021-01-03T01:53:04.000Z",
+                        "updatedBy": 55657,
+                        "sortOrder": null,
+                        "componentGridCode": null,
+                        "id": 1435731,
+                        "chip": {
+                            "userAccountId": 55657,
+                            "uuid": "DyRTSS3eqREqBYHsj0uorPHS1",
+                            "shareId": "CAVTFCM",
+                            "name": "Lesson Chip 4",
+                            "data": {
+                                "goal": "",
+                                "inputs": [],
+                                "inputWorkspaces": [],
+                                "workspace": [
+                                    {
+                                        "name": "Poly",
+                                        "blocks": [],
+                                        "inputs": []
+                                    }
+                                ],
+                                "solution": [
+                                    {
+                                        "name": "Poly",
+                                        "blocks": [],
+                                        "inputs": []
+                                    }
+                                ],
+                                "blocks": [],
+                                "metadata": {
+                                    "stackMetadata": {},
+                                    "solutionMetadata": {},
+                                    "requireMod": false,
+                                    "infiniteProgramCutoff": -1,
+                                    "sequenceLength": -1,
+                                    "sequenceMaxSteps": -1,
+                                    "numberMode": 0,
+                                    "showGoal": true
+                                },
+                                "version": 0,
+                                "solutionModified": false,
+                                "chipType": "lesson"
+                            },
+                            "script": null,
+                            "goals": null,
+                            "tags": null,
+                            "systemTags": "origLib:advanced,origId:1362888",
+                            "active": false,
+                            "status": 0,
+                            "originalChipHistoryId": null,
+                            "createdAt": "2021-01-03T01:53:01.000Z",
+                            "createdBy": 55657,
+                            "updatedAt": "2021-01-03T01:53:40.000Z",
+                            "updatedBy": 55657,
+                            "isEditable": false,
+                            "bucketId": null,
+                            "strings": {
+                                "en": {
+                                    "name": "Lesson Chip 4"
+                                }
+                            },
+                            "description": null,
+                            "localId": 11,
+                            "id": 1441013,
+                            "userProgress": []
+                        }
+                    }
+                ],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473512,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": -1.3052366995240332,
+                "y": 13,
+                "z": -7.073024841928039e-16,
+                "rx": 1.3089969389957474,
+                "ry": 3.141592653589793,
+                "rz": 3.141592653589793,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T16:01:13.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:43:16.000Z",
+            "updatedBy": 55657,
+            "id": 1458434,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "w5C9P58eYhURCVMRBa31DuRIk",
+                "shareId": "BYCEMPC",
+                "name": "star 2",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:basicParts,origId:1225719,colorable",
+                "active": true,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T16:01:12.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:26:46.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/Tutorial/meet_parts.json[star]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "star 2"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": "{\"color\":{\"type\":1008,\"data\":\"Color[128,255,0]\"}}",
+                "localId": 40,
+                "id": 1473512,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473514,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": 4.6,
+                "y": 3,
+                "z": 0,
+                "rx": 1.5707963118937354,
+                "ry": -0.2617993877991494,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T16:01:15.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:25:38.000Z",
+            "updatedBy": 55657,
+            "id": 1458435,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "iPtSFl9dDvvePXVOUT5rHhoEk",
+                "shareId": "BSSXWJK",
+                "name": "star 3",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:basicParts,origId:1225719,colorable",
+                "active": true,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T16:01:15.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:08:03.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/Tutorial/meet_parts.json[star]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "star 3"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": "{\"color\":{\"type\":1008,\"data\":\"Color[0,255,255]\"}}",
+                "localId": 41,
+                "id": 1473514,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473564,
+            "parentMachineComponentId": 0,
+            "data": null,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0,
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T16:03:51.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:03:52.000Z",
+            "updatedBy": 55657,
+            "id": 1458486,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "yDYZ2cJVTa7n7feiCDf9cP8CB",
+                "shareId": "BRAJ7XE",
+                "name": "star 4",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:basicParts,origId:1225719,colorable",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T16:03:51.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:03:54.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/Tutorial/meet_parts.json[star]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "star 4"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": null,
+                "localId": 42,
+                "id": 1473564,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473565,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": -7.274738499896398,
+                "y": 6,
+                "z": 0.8464896198806684,
+                "rx": 0.9909004562811948,
+                "ry": -0.2301482508757757,
+                "rz": -0.42143565512511527,
+                "sx": 1.5,
+                "sy": 1.5,
+                "sz": 1.5,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T16:03:55.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2021-01-03T01:58:40.000Z",
+            "updatedBy": 55657,
+            "id": 1458487,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "OJA0wG39g4JFqSSmvTuacGzb7",
+                "shareId": "B497E3H",
+                "name": "star 4",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:basicParts,origId:1225719,colorable",
+                "active": true,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T16:03:55.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:07:39.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/Tutorial/meet_parts.json[star]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "star 4"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": "{\"color\":{\"type\":1008,\"data\":\"Color[0,255,255]\"}}",
+                "localId": 43,
+                "id": 1473565,
+                "chips": [
+                    {
+                        "componentId": 1473565,
+                        "chipId": 1441014,
+                        "data": null,
+                        "position": {
+                            "x": 0.053875292082310025,
+                            "y": -2.2204460492503136e-16,
+                            "z": -0.03334155403001705,
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 0.99609375,
+                            "sy": 0.99609375,
+                            "sz": 0.99609375
+                        },
+                        "isRoot": null,
+                        "createdAt": "2021-01-03T01:53:46.000Z",
+                        "createdBy": 55657,
+                        "updatedAt": "2021-01-03T01:56:35.000Z",
+                        "updatedBy": 55657,
+                        "sortOrder": null,
+                        "componentGridCode": null,
+                        "id": 1435732,
+                        "chip": {
+                            "userAccountId": 55657,
+                            "uuid": "EDi3NUI8KHThUehcGksGFHeZk",
+                            "shareId": "C3S3MEW",
+                            "name": "Lesson Chip 4",
+                            "data": {
+                                "goal": "Change number 4 to satisfy the result!",
+                                "inputs": [],
+                                "inputWorkspaces": [
+                                    [
+                                        {
+                                            "name": "Poly",
+                                            "blocks": [],
+                                            "inputs": []
+                                        }
+                                    ]
+                                ],
+                                "workspace": [
+                                    {
+                                        "name": "Poly",
+                                        "blocks": [
+                                            {
+                                                "type": 1001,
+                                                "data": "4"
+                                            },
+                                            {
+                                                "type": 1001,
+                                                "data": "3"
+                                            },
+                                            {
+                                                "type": 2000,
+                                                "data": "+"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    }
+                                ],
+                                "solution": [
+                                    {
+                                        "name": "Poly",
+                                        "blocks": [
+                                            {
+                                                "type": 1001,
+                                                "data": "7"
+                                            },
+                                            {
+                                                "type": 1001,
+                                                "data": "3"
+                                            },
+                                            {
+                                                "type": 2000,
+                                                "data": "+"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    }
+                                ],
+                                "blocks": [
+                                    {
+                                        "count": 1,
+                                        "type": 1001,
+                                        "data": "7"
+                                    },
+                                    {
+                                        "count": 1,
+                                        "type": 1001,
+                                        "data": "8"
+                                    }
+                                ],
+                                "metadata": {
+                                    "stackMetadata": {
+                                        "Poly": {
+                                            "lockIndex": -1,
+                                            "unlocked": false,
+                                            "unlockedIndices": [
+                                                1
+                                            ],
+                                            "hidden": false,
+                                            "name": "Poly"
+                                        }
+                                    },
+                                    "solutionMetadata": {
+                                        "Poly": {
+                                            "lockIndex": -1,
+                                            "unlocked": false,
+                                            "unlockedIndices": [
+                                                1
+                                            ],
+                                            "hidden": false,
+                                            "name": "Poly"
+                                        }
+                                    },
+                                    "requireMod": false,
+                                    "infiniteProgramCutoff": -1,
+                                    "sequenceLength": -1,
+                                    "sequenceMaxSteps": -1,
+                                    "numberMode": 0,
+                                    "showGoal": true
+                                },
+                                "version": 113,
+                                "solutionModified": true,
+                                "chipType": "lesson"
+                            },
+                            "script": null,
+                            "goals": null,
+                            "tags": null,
+                            "systemTags": null,
+                            "active": true,
+                            "status": 0,
+                            "originalChipHistoryId": null,
+                            "createdAt": "2021-01-03T01:53:45.000Z",
+                            "createdBy": 55657,
+                            "updatedAt": "2021-01-03T01:56:12.000Z",
+                            "updatedBy": 55657,
+                            "isEditable": false,
+                            "bucketId": null,
+                            "strings": {
+                                "en": {
+                                    "name": "Lesson Chip 4",
+                                    "description": "Change number 4 to satisfy the result!"
+                                }
+                            },
+                            "description": null,
+                            "localId": 12,
+                            "id": 1441014,
+                            "userProgress": []
+                        }
+                    }
+                ],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473598,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": -19.5,
+                "y": 0.120899997651577,
+                "z": -11,
+                "rx": 1.5707963267948966,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T16:06:47.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:06:49.000Z",
+            "updatedBy": 55657,
+            "id": 1458520,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "0dmyRCW4PMSItY4eBLFAT0VRA",
+                "shareId": "BEM7KEP",
+                "name": "star 5",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:basicParts,origId:1225719,colorable",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T16:06:47.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:18:30.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/Tutorial/meet_parts.json[star]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "star 5"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": null,
+                "localId": 44,
+                "id": 1473598,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473599,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": 7.5,
+                "y": 6.5,
+                "z": -8.14194252162979,
+                "rx": -1.4533445311357849,
+                "ry": 0,
+                "rz": -0.10189041277755942,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T16:06:49.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:47:48.000Z",
+            "updatedBy": 55657,
+            "id": 1458521,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "gf5VbT0nPYxeuyQmk8kZeGEAO",
+                "shareId": "BJKUSNJ",
+                "name": "star 6",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:basicParts,origId:1225719,colorable",
+                "active": true,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T16:06:49.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:07:11.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/Tutorial/meet_parts.json[star]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "star 6"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": "{\"color\":{\"type\":1008,\"data\":\"Color[0,255,255]\"}}",
+                "localId": 45,
+                "id": 1473599,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473635,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": 3.793843973615598,
+                "y": 10.649314958620451,
+                "z": -2.86760237366716,
+                "rx": 1.3089969389957479,
+                "ry": 1.5707963267948966,
+                "rz": 1.5707963267948966,
+                "sx": 1.5,
+                "sy": 1.5,
+                "sz": 1.5,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T16:11:16.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:44:08.000Z",
+            "updatedBy": 55657,
+            "id": 1458556,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "xAFztNd2nu41B6WG4pYptmmKX",
+                "shareId": "BFFFT3U",
+                "name": "star 7",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:basicParts,origId:1225719,colorable",
+                "active": true,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T16:11:16.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:24:54.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/Tutorial/meet_parts.json[star]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "star 7"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": "{\"color\":{\"type\":1008,\"data\":\"Color[128,255,0]\"}}",
+                "localId": 46,
+                "id": 1473635,
+                "chips": [
+                    {
+                        "componentId": 1473635,
+                        "chipId": 1422737,
+                        "data": null,
+                        "position": {
+                            "x": 0.11114826983009604,
+                            "y": 1.13686837721616e-13,
+                            "z": -0.10318146303410455,
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1
+                        },
+                        "isRoot": null,
+                        "createdAt": "2020-12-18T19:19:38.000Z",
+                        "createdBy": 55657,
+                        "updatedAt": "2020-12-21T16:44:13.000Z",
+                        "updatedBy": 55657,
+                        "sortOrder": null,
+                        "componentGridCode": null,
+                        "id": 1417501,
+                        "chip": {
+                            "userAccountId": 55657,
+                            "uuid": "NuVYHj48qNsqtLMiEEAdlpL40",
+                            "shareId": "CNEW7SU",
+                            "name": "Lesson Chip 2",
+                            "data": {
+                                "goal": "In this machine, Stack 2 gets your number, it multiplies by 2 and then Poly returns the result. Change your number to satisfy the result!",
+                                "inputs": [],
+                                "inputWorkspaces": [],
+                                "workspace": [
+                                    {
+                                        "name": "Poly",
+                                        "blocks": [
+                                            {
+                                                "type": 6000,
+                                                "data": "ii"
+                                            },
+                                            {
+                                                "type": 6000,
+                                                "data": "i"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "ii",
+                                        "blocks": [
+                                            {
+                                                "type": 1001,
+                                                "data": "7"
+                                            },
+                                            {
+                                                "type": 6000,
+                                                "data": "iii"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "i",
+                                        "blocks": [
+                                            {
+                                                "type": 6000,
+                                                "data": "iv"
+                                            },
+                                            {
+                                                "type": 1001,
+                                                "data": "2"
+                                            },
+                                            {
+                                                "type": 2002,
+                                                "data": "*"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "iii",
+                                        "blocks": [
+                                            {
+                                                "type": 4000,
+                                                "data": "->$x"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "iv",
+                                        "blocks": [
+                                            {
+                                                "type": 4001,
+                                                "data": "$x"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    }
+                                ],
+                                "solution": [
+                                    {
+                                        "name": "Poly",
+                                        "blocks": [
+                                            {
+                                                "type": 6000,
+                                                "data": "ii"
+                                            },
+                                            {
+                                                "type": 6000,
+                                                "data": "i"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "ii",
+                                        "blocks": [
+                                            {
+                                                "type": 1001,
+                                                "data": "5"
+                                            },
+                                            {
+                                                "type": 6000,
+                                                "data": "iii"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "i",
+                                        "blocks": [
+                                            {
+                                                "type": 6000,
+                                                "data": "iv"
+                                            },
+                                            {
+                                                "type": 1001,
+                                                "data": "2"
+                                            },
+                                            {
+                                                "type": 2002,
+                                                "data": "*"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "iii",
+                                        "blocks": [
+                                            {
+                                                "type": 4000,
+                                                "data": "->$x"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "iv",
+                                        "blocks": [
+                                            {
+                                                "type": 4001,
+                                                "data": "$x"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    }
+                                ],
+                                "blocks": [
+                                    {
+                                        "count": -1,
+                                        "type": -1000
+                                    }
+                                ],
+                                "metadata": {
+                                    "stackMetadata": {
+                                        "Poly": {
+                                            "lockIndex": -1,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": false,
+                                            "name": "Poly"
+                                        },
+                                        "ii": {
+                                            "lockIndex": -1,
+                                            "unlocked": false,
+                                            "unlockedIndices": [
+                                                1
+                                            ],
+                                            "hidden": false,
+                                            "name": "ii"
+                                        },
+                                        "i": {
+                                            "lockIndex": -1,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": false,
+                                            "name": "i"
+                                        },
+                                        "iii": {
+                                            "lockIndex": 0,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": true,
+                                            "name": "iii"
+                                        },
+                                        "iv": {
+                                            "lockIndex": 0,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": true,
+                                            "name": "iv"
+                                        }
+                                    },
+                                    "solutionMetadata": {
+                                        "Poly": {
+                                            "lockIndex": -1,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": false,
+                                            "name": "Poly"
+                                        },
+                                        "i": {
+                                            "lockIndex": -1,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": false,
+                                            "name": "i"
+                                        },
+                                        "ii": {
+                                            "lockIndex": -1,
+                                            "unlocked": false,
+                                            "unlockedIndices": [
+                                                1
+                                            ],
+                                            "hidden": false,
+                                            "name": "ii"
+                                        },
+                                        "iii": {
+                                            "lockIndex": 0,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": true,
+                                            "name": "iii"
+                                        },
+                                        "iv": {
+                                            "lockIndex": 0,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": true,
+                                            "name": "iv"
+                                        }
+                                    },
+                                    "requireMod": false,
+                                    "infiniteProgramCutoff": -1,
+                                    "sequenceLength": -1,
+                                    "sequenceMaxSteps": -1,
+                                    "numberMode": 0,
+                                    "showGoal": true
+                                },
+                                "version": 65,
+                                "solutionModified": true,
+                                "chipType": "lesson"
+                            },
+                            "script": null,
+                            "goals": null,
+                            "tags": null,
+                            "systemTags": null,
+                            "active": true,
+                            "status": 0,
+                            "originalChipHistoryId": null,
+                            "createdAt": "2020-12-18T19:19:37.000Z",
+                            "createdBy": 55657,
+                            "updatedAt": "2021-01-02T20:28:53.000Z",
+                            "updatedBy": 55657,
+                            "isEditable": false,
+                            "bucketId": null,
+                            "strings": {
+                                "en": {
+                                    "name": "Lesson Chip 2",
+                                    "description": "In this machine, Stack 2 gets your number, it multiplies by 2 and then Poly returns the result. Change your number to satisfy the result!",
+                                    "stack1": "set number",
+                                    "stack2": "answer",
+                                    "stack3": "Set number",
+                                    "stack4": "your number"
+                                }
+                            },
+                            "description": null,
+                            "localId": 4,
+                            "id": 1422737,
+                            "userProgress": []
+                        }
+                    }
+                ],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473642,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": -1.130677492065519,
+                "y": 7.6410598647740295,
+                "z": -3.6773256749607257,
+                "rx": 1.202692070395274,
+                "ry": -0.5409327585014081,
+                "rz": -0.7680641804943414,
+                "sx": 1.5,
+                "sy": 1.5,
+                "sz": 1.5,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T16:13:06.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:46:21.000Z",
+            "updatedBy": 55657,
+            "id": 1458564,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "OQNRQb3Dkhr70D8qrHkgcYr8u",
+                "shareId": "B77TUXM",
+                "name": "star 8",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:basicParts,origId:1225719,colorable",
+                "active": true,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T16:13:06.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:13:06.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/Tutorial/meet_parts.json[star]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "star 8"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": "{\"color\":{\"type\":1008,\"data\":\"Color[0,255,128]\"}}",
+                "localId": 47,
+                "id": 1473642,
+                "chips": [
+                    {
+                        "componentId": 1473642,
+                        "chipId": 1422738,
+                        "data": null,
+                        "position": {
+                            "x": -0.06024461704541316,
+                            "y": 0,
+                            "z": -0.09318840490806134,
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1
+                        },
+                        "isRoot": null,
+                        "createdAt": "2020-12-18T19:19:38.000Z",
+                        "createdBy": 55657,
+                        "updatedAt": "2020-12-21T16:32:42.000Z",
+                        "updatedBy": 55657,
+                        "sortOrder": null,
+                        "componentGridCode": null,
+                        "id": 1417505,
+                        "chip": {
+                            "userAccountId": 55657,
+                            "uuid": "BJWF4dbcOqFIEQFyHICblweir",
+                            "shareId": "CSPCAPP",
+                            "name": "Lesson Chip 1",
+                            "data": {
+                                "goal": "In this machine, Stack 2 gets your number, it adds it up by 9 and then Poly returns the result. Change your number to satisfy the result!",
+                                "inputs": [],
+                                "inputWorkspaces": [],
+                                "workspace": [
+                                    {
+                                        "name": "Poly",
+                                        "blocks": [
+                                            {
+                                                "type": 6000,
+                                                "data": "ii"
+                                            },
+                                            {
+                                                "type": 6000,
+                                                "data": "i"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "ii",
+                                        "blocks": [
+                                            {
+                                                "type": 1001,
+                                                "data": "5"
+                                            },
+                                            {
+                                                "type": 6000,
+                                                "data": "iii"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "i",
+                                        "blocks": [
+                                            {
+                                                "type": 6000,
+                                                "data": "iv"
+                                            },
+                                            {
+                                                "type": 1001,
+                                                "data": "9"
+                                            },
+                                            {
+                                                "type": 2000,
+                                                "data": "+"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "iii",
+                                        "blocks": [
+                                            {
+                                                "type": 4000,
+                                                "data": "->$x"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "iv",
+                                        "blocks": [
+                                            {
+                                                "type": 4001,
+                                                "data": "$x"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    }
+                                ],
+                                "solution": [
+                                    {
+                                        "name": "Poly",
+                                        "blocks": [
+                                            {
+                                                "type": 6000,
+                                                "data": "ii"
+                                            },
+                                            {
+                                                "type": 6000,
+                                                "data": "i"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "ii",
+                                        "blocks": [
+                                            {
+                                                "type": 1001,
+                                                "data": "1"
+                                            },
+                                            {
+                                                "type": 6000,
+                                                "data": "iii"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "i",
+                                        "blocks": [
+                                            {
+                                                "type": 6000,
+                                                "data": "iv"
+                                            },
+                                            {
+                                                "type": 1001,
+                                                "data": "9"
+                                            },
+                                            {
+                                                "type": 2000,
+                                                "data": "+"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "iii",
+                                        "blocks": [
+                                            {
+                                                "type": 4000,
+                                                "data": "->$x"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "iv",
+                                        "blocks": [
+                                            {
+                                                "type": 4001,
+                                                "data": "$x"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    }
+                                ],
+                                "blocks": [
+                                    {
+                                        "count": -1,
+                                        "type": -1000
+                                    }
+                                ],
+                                "metadata": {
+                                    "stackMetadata": {
+                                        "Poly": {
+                                            "lockIndex": -1,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": false,
+                                            "name": "Poly"
+                                        },
+                                        "ii": {
+                                            "lockIndex": -1,
+                                            "unlocked": false,
+                                            "unlockedIndices": [
+                                                1
+                                            ],
+                                            "hidden": false,
+                                            "name": "ii"
+                                        },
+                                        "i": {
+                                            "lockIndex": -1,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": false,
+                                            "name": "i"
+                                        },
+                                        "iii": {
+                                            "lockIndex": 0,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": true,
+                                            "name": "iii"
+                                        },
+                                        "iv": {
+                                            "lockIndex": 0,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": true,
+                                            "name": "iv"
+                                        }
+                                    },
+                                    "solutionMetadata": {
+                                        "Poly": {
+                                            "lockIndex": -1,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": false,
+                                            "name": "Poly"
+                                        },
+                                        "ii": {
+                                            "lockIndex": -1,
+                                            "unlocked": false,
+                                            "unlockedIndices": [
+                                                1
+                                            ],
+                                            "hidden": false,
+                                            "name": "ii"
+                                        },
+                                        "i": {
+                                            "lockIndex": -1,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": false,
+                                            "name": "i"
+                                        },
+                                        "iii": {
+                                            "lockIndex": 0,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": true,
+                                            "name": "iii"
+                                        },
+                                        "iv": {
+                                            "lockIndex": 0,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": true,
+                                            "name": "iv"
+                                        }
+                                    },
+                                    "requireMod": false,
+                                    "infiniteProgramCutoff": -1,
+                                    "sequenceLength": -1,
+                                    "sequenceMaxSteps": -1,
+                                    "numberMode": 0,
+                                    "showGoal": true
+                                },
+                                "version": 79,
+                                "solutionModified": true,
+                                "chipType": "lesson"
+                            },
+                            "script": null,
+                            "goals": null,
+                            "tags": null,
+                            "systemTags": null,
+                            "active": true,
+                            "status": 0,
+                            "originalChipHistoryId": null,
+                            "createdAt": "2020-12-18T19:19:37.000Z",
+                            "createdBy": 55657,
+                            "updatedAt": "2021-01-02T20:27:45.000Z",
+                            "updatedBy": 55657,
+                            "isEditable": false,
+                            "bucketId": null,
+                            "strings": {
+                                "en": {
+                                    "name": "Lesson Chip 1",
+                                    "description": "In this machine, Stack 2 gets your number, it adds it up by 9 and then Poly returns the result. Change your number to satisfy the result!",
+                                    "stack1": "set number",
+                                    "stack2": "answer",
+                                    "stack3": "Set number",
+                                    "stack4": "your number"
+                                }
+                            },
+                            "description": null,
+                            "localId": 6,
+                            "id": 1422738,
+                            "userProgress": []
+                        }
+                    }
+                ],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473644,
+            "parentMachineComponentId": 1458521,
+            "data": null,
+            "position": {
+                "x": -2.7838447507187287,
+                "y": -0.7774829981374871,
+                "z": -8.88178419700125e-16,
+                "rx": 0,
+                "ry": -3.141592653589793,
+                "rz": 0,
+                "sx": 0.99609375,
+                "sy": 0.99609375,
+                "sz": 0.99609375,
+                "anchor": 1,
+                "rootAnchor": 1
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T16:13:13.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:27:18.000Z",
+            "updatedBy": 55657,
+            "id": 1458566,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "FYpM0YCNILJSSPCzOB1Nd2Ybh",
+                "shareId": "BTR9U77",
+                "name": "star 9",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:basicParts,origId:1225719,colorable",
+                "active": true,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T16:13:13.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:27:26.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/Tutorial/meet_parts.json[star]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "star 9"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": "{\"color\":{\"type\":1008,\"data\":\"Color[0,255,128]\"}}",
+                "localId": 48,
+                "id": 1473644,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473645,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": 8.90726880787938,
+                "y": 4.00959904424133,
+                "z": -1.0050777879193145,
+                "rx": 1.5707963118937354,
+                "ry": 0.2617993877991494,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T16:13:18.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:48:10.000Z",
+            "updatedBy": 55657,
+            "id": 1458567,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "0ANhPuZ5IAdbxTiSg1JGHYV7s",
+                "shareId": "BTTM3RR",
+                "name": "star 10",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:basicParts,origId:1225719,colorable",
+                "active": true,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T16:13:18.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:13:18.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/Tutorial/meet_parts.json[star]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "star 10"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": "{\"color\":{\"type\":1008,\"data\":\"Color[0,255,128]\"}}",
+                "localId": 49,
+                "id": 1473645,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473646,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": 6.933476061478155,
+                "y": 17.70197181972179,
+                "z": -0.22030197592928177,
+                "rx": -0.7853981633974485,
+                "ry": 1.5707963267948966,
+                "rz": 1.5707963267948966,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T16:13:21.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:43:00.000Z",
+            "updatedBy": 55657,
+            "id": 1458568,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "dBelxYMIvx46SgG6olMwRye1n",
+                "shareId": "BHNSAX3",
+                "name": "star 11",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:basicParts,origId:1225719,colorable",
+                "active": true,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T16:13:20.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:26:53.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/Tutorial/meet_parts.json[star]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "star 11"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": "{\"color\":{\"type\":1008,\"data\":\"Color[128,255,0]\"}}",
+                "localId": 50,
+                "id": 1473646,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473647,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": -3.444192681678165,
+                "y": 8.309496736876785,
+                "z": -0.12280870403612557,
+                "rx": 1.5707963267948966,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1.56,
+                "sy": 1.56,
+                "sz": 1.56,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T16:13:22.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2021-01-03T01:57:26.000Z",
+            "updatedBy": 55657,
+            "id": 1458569,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "dZlShODvQMySXhTYoZGGvhpde",
+                "shareId": "B7FUT44",
+                "name": "star 12",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:basicParts,origId:1225719,colorable",
+                "active": true,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T16:13:22.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:13:22.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/Tutorial/meet_parts.json[star]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "star 12"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": "{\"color\":{\"type\":1008,\"data\":\"Color[0,255,128]\"}}",
+                "localId": 51,
+                "id": 1473647,
+                "chips": [
+                    {
+                        "componentId": 1473647,
+                        "chipId": 1422734,
+                        "data": null,
+                        "position": {
+                            "x": -0.03239281143555672,
+                            "y": 6.938893903907228e-18,
+                            "z": -0.12246942771366776,
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1
+                        },
+                        "isRoot": null,
+                        "createdAt": "2020-12-18T19:19:38.000Z",
+                        "createdBy": 55657,
+                        "updatedAt": "2021-01-03T01:58:02.000Z",
+                        "updatedBy": 55657,
+                        "sortOrder": null,
+                        "componentGridCode": null,
+                        "id": 1417502,
+                        "chip": {
+                            "userAccountId": 55657,
+                            "uuid": "Kdr6jcWoDIsr16qVx0HvuDzhT",
+                            "shareId": "CS7FMEP",
+                            "name": "Lesson Chip",
+                            "data": {
+                                "goal": "In this machine, Stack 2 gets your number, it adds it up by 3 and then Poly returns the result. Change your number to satisfy the result!",
+                                "inputs": [],
+                                "inputWorkspaces": [
+                                    [
+                                        {
+                                            "name": "Poly",
+                                            "blocks": [],
+                                            "inputs": []
+                                        }
+                                    ]
+                                ],
+                                "workspace": [
+                                    {
+                                        "name": "Poly",
+                                        "blocks": [
+                                            {
+                                                "type": 6000,
+                                                "data": "ii"
+                                            },
+                                            {
+                                                "type": 6000,
+                                                "data": "i"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "ii",
+                                        "blocks": [
+                                            {
+                                                "type": 1001,
+                                                "data": "4"
+                                            },
+                                            {
+                                                "type": 6000,
+                                                "data": "iii"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "i",
+                                        "blocks": [
+                                            {
+                                                "type": 6000,
+                                                "data": "iv"
+                                            },
+                                            {
+                                                "type": 1001,
+                                                "data": "3"
+                                            },
+                                            {
+                                                "type": 2000,
+                                                "data": "+"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "iii",
+                                        "blocks": [
+                                            {
+                                                "type": 4000,
+                                                "data": "->$x"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "iv",
+                                        "blocks": [
+                                            {
+                                                "type": 4001,
+                                                "data": "$x"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    }
+                                ],
+                                "solution": [
+                                    {
+                                        "name": "Poly",
+                                        "blocks": [
+                                            {
+                                                "type": 6000,
+                                                "data": "ii"
+                                            },
+                                            {
+                                                "type": 6000,
+                                                "data": "i"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "ii",
+                                        "blocks": [
+                                            {
+                                                "type": 1001,
+                                                "data": "7"
+                                            },
+                                            {
+                                                "type": 6000,
+                                                "data": "iii"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "i",
+                                        "blocks": [
+                                            {
+                                                "type": 6000,
+                                                "data": "iv"
+                                            },
+                                            {
+                                                "type": 1001,
+                                                "data": "3"
+                                            },
+                                            {
+                                                "type": 2000,
+                                                "data": "+"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "iii",
+                                        "blocks": [
+                                            {
+                                                "type": 4000,
+                                                "data": "->$x"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "iv",
+                                        "blocks": [
+                                            {
+                                                "type": 4001,
+                                                "data": "$x"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    }
+                                ],
+                                "blocks": [
+                                    {
+                                        "count": 1,
+                                        "type": 1001,
+                                        "data": "7"
+                                    },
+                                    {
+                                        "count": 1,
+                                        "type": 1001,
+                                        "data": "8"
+                                    }
+                                ],
+                                "metadata": {
+                                    "stackMetadata": {
+                                        "Poly": {
+                                            "lockIndex": -1,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": false,
+                                            "name": "Poly"
+                                        },
+                                        "ii": {
+                                            "lockIndex": -1,
+                                            "unlocked": false,
+                                            "unlockedIndices": [
+                                                1
+                                            ],
+                                            "hidden": false,
+                                            "name": "ii"
+                                        },
+                                        "i": {
+                                            "lockIndex": -1,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": false,
+                                            "name": "i"
+                                        },
+                                        "iii": {
+                                            "lockIndex": 0,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": true,
+                                            "name": "iii"
+                                        },
+                                        "iv": {
+                                            "lockIndex": 0,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": true,
+                                            "name": "iv"
+                                        }
+                                    },
+                                    "solutionMetadata": {
+                                        "Poly": {
+                                            "lockIndex": -1,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": false,
+                                            "name": "Poly"
+                                        },
+                                        "ii": {
+                                            "lockIndex": -1,
+                                            "unlocked": false,
+                                            "unlockedIndices": [
+                                                1
+                                            ],
+                                            "hidden": false,
+                                            "name": "ii"
+                                        },
+                                        "i": {
+                                            "lockIndex": -1,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": false,
+                                            "name": "i"
+                                        },
+                                        "iii": {
+                                            "lockIndex": 0,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": true,
+                                            "name": "iii"
+                                        },
+                                        "iv": {
+                                            "lockIndex": 0,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": true,
+                                            "name": "iv"
+                                        }
+                                    },
+                                    "requireMod": false,
+                                    "infiniteProgramCutoff": -1,
+                                    "sequenceLength": -1,
+                                    "sequenceMaxSteps": -1,
+                                    "numberMode": 0,
+                                    "showGoal": true
+                                },
+                                "version": 89,
+                                "solutionModified": true,
+                                "chipType": "lesson"
+                            },
+                            "script": null,
+                            "goals": null,
+                            "tags": null,
+                            "systemTags": null,
+                            "active": true,
+                            "status": 0,
+                            "originalChipHistoryId": null,
+                            "createdAt": "2020-12-18T19:19:37.000Z",
+                            "createdBy": 55657,
+                            "updatedAt": "2021-01-03T01:53:30.000Z",
+                            "updatedBy": 55657,
+                            "isEditable": false,
+                            "bucketId": null,
+                            "strings": {
+                                "en": {
+                                    "name": "Lesson Chip",
+                                    "description": "In this machine, Stack 2 gets your number, it adds it up by 3 and then Poly returns the result. Change your number to satisfy the result!",
+                                    "stack1": "set number",
+                                    "stack2": "answer",
+                                    "stack3": "Your number",
+                                    "stack4": "your number"
+                                }
+                            },
+                            "description": null,
+                            "localId": 2,
+                            "id": 1422734,
+                            "userProgress": []
+                        }
+                    }
+                ],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473648,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": 10.241441643468978,
+                "y": 1.7808588580452251,
+                "z": 11.861454599698728,
+                "rx": 1.5707963267948966,
+                "ry": 0,
+                "rz": 0,
+                "sx": 0.599609375,
+                "sy": 0.599609375,
+                "sz": 0.599609375,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T16:13:28.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:47:54.000Z",
+            "updatedBy": 55657,
+            "id": 1458570,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "DLtXyIqCiUKVQHRLAigyCgvUa",
+                "shareId": "BK7VHYY",
+                "name": "star 13",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:basicParts,origId:1225719,colorable",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T16:13:28.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:48:03.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/Tutorial/meet_parts.json[star]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "star 13"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": "{\"color\":{\"type\":1008,\"data\":\"Color[0,138,187]\"}}",
+                "localId": 52,
+                "id": 1473648,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473736,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": 3.7196905810943983,
+                "y": 15.689626819588609,
+                "z": -0.800000000000001,
+                "rx": 1.5707963267948966,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T16:27:51.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:42:40.000Z",
+            "updatedBy": 55657,
+            "id": 1458657,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "uOitUhKAxenFKtHadmeS1Nv9l",
+                "shareId": "BXX7KH3",
+                "name": "star 5",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:basicParts,origId:1225719,colorable",
+                "active": true,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T16:27:51.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:34:52.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/Tutorial/meet_parts.json[star]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "star 5"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": "{\"color\":{\"type\":1008,\"data\":\"Color[255,199,14]\"}}",
+                "localId": 53,
+                "id": 1473736,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473741,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": 1.5041289319899334,
+                "y": 17.11811844693193,
+                "z": -1.9208117399542433,
+                "rx": 1.4182675037861323,
+                "ry": -1.693412524439886,
+                "rz": -1.5707963267948923,
+                "sx": 1.5,
+                "sy": 1.5,
+                "sz": 1.5,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T16:29:35.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:42:14.000Z",
+            "updatedBy": 55657,
+            "id": 1458663,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "82GAMciVtcXF4QBZZxL8QsKk1",
+                "shareId": "BU3PP37",
+                "name": "star 14",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:basicParts,origId:1225719,colorable",
+                "active": true,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T16:29:35.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:34:46.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/Tutorial/meet_parts.json[star]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "star 14"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": "{\"color\":{\"type\":1008,\"data\":\"Color[255,199,14]\"}}",
+                "localId": 54,
+                "id": 1473741,
+                "chips": [
+                    {
+                        "componentId": 1473741,
+                        "chipId": 1422736,
+                        "data": null,
+                        "position": {
+                            "x": -0.04567370671935601,
+                            "y": 1.1390888232654109e-13,
+                            "z": 0.026082303874204633,
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1
+                        },
+                        "isRoot": null,
+                        "createdAt": "2020-12-18T19:19:38.000Z",
+                        "createdBy": 55657,
+                        "updatedAt": "2020-12-21T16:42:22.000Z",
+                        "updatedBy": 55657,
+                        "sortOrder": null,
+                        "componentGridCode": null,
+                        "id": 1417503,
+                        "chip": {
+                            "userAccountId": 55657,
+                            "uuid": "JlrBqBTNKBktlsT0B1kmOGoYL",
+                            "shareId": "CJMTVJU",
+                            "name": "Lesson Chip 3",
+                            "data": {
+                                "goal": "In this machine, Stack 2 gets your number, it multiplies it by 1 and then Poly returns the result. Change your number to satisfy the result!",
+                                "inputs": [],
+                                "inputWorkspaces": [],
+                                "workspace": [
+                                    {
+                                        "name": "Poly",
+                                        "blocks": [
+                                            {
+                                                "type": 6000,
+                                                "data": "ii"
+                                            },
+                                            {
+                                                "type": 6000,
+                                                "data": "i"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "ii",
+                                        "blocks": [
+                                            {
+                                                "type": 1001,
+                                                "data": "6"
+                                            },
+                                            {
+                                                "type": 6000,
+                                                "data": "iii"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "i",
+                                        "blocks": [
+                                            {
+                                                "type": 6000,
+                                                "data": "iv"
+                                            },
+                                            {
+                                                "type": 1001,
+                                                "data": "1"
+                                            },
+                                            {
+                                                "type": 2002,
+                                                "data": "*"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "iii",
+                                        "blocks": [
+                                            {
+                                                "type": 4000,
+                                                "data": "->$x"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "iv",
+                                        "blocks": [
+                                            {
+                                                "type": 4001,
+                                                "data": "$x"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    }
+                                ],
+                                "solution": [
+                                    {
+                                        "name": "Poly",
+                                        "blocks": [
+                                            {
+                                                "type": 6000,
+                                                "data": "ii"
+                                            },
+                                            {
+                                                "type": 6000,
+                                                "data": "i"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "ii",
+                                        "blocks": [
+                                            {
+                                                "type": 1001,
+                                                "data": "10"
+                                            },
+                                            {
+                                                "type": 6000,
+                                                "data": "iii"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "i",
+                                        "blocks": [
+                                            {
+                                                "type": 6000,
+                                                "data": "iv"
+                                            },
+                                            {
+                                                "type": 1001,
+                                                "data": "1"
+                                            },
+                                            {
+                                                "type": 2002,
+                                                "data": "*"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "iii",
+                                        "blocks": [
+                                            {
+                                                "type": 4000,
+                                                "data": "->$x"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    },
+                                    {
+                                        "name": "iv",
+                                        "blocks": [
+                                            {
+                                                "type": 4001,
+                                                "data": "$x"
+                                            }
+                                        ],
+                                        "inputs": []
+                                    }
+                                ],
+                                "blocks": [
+                                    {
+                                        "count": -1,
+                                        "type": -1000
+                                    }
+                                ],
+                                "metadata": {
+                                    "stackMetadata": {
+                                        "Poly": {
+                                            "lockIndex": -1,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": false,
+                                            "name": "Poly"
+                                        },
+                                        "ii": {
+                                            "lockIndex": -1,
+                                            "unlocked": false,
+                                            "unlockedIndices": [
+                                                1
+                                            ],
+                                            "hidden": false,
+                                            "name": "ii"
+                                        },
+                                        "i": {
+                                            "lockIndex": -1,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": false,
+                                            "name": "i"
+                                        },
+                                        "iii": {
+                                            "lockIndex": 0,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": true,
+                                            "name": "iii"
+                                        },
+                                        "iv": {
+                                            "lockIndex": 0,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": true,
+                                            "name": "iv"
+                                        }
+                                    },
+                                    "solutionMetadata": {
+                                        "Poly": {
+                                            "lockIndex": -1,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": false,
+                                            "name": "Poly"
+                                        },
+                                        "i": {
+                                            "lockIndex": -1,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": false,
+                                            "name": "i"
+                                        },
+                                        "ii": {
+                                            "lockIndex": -1,
+                                            "unlocked": false,
+                                            "unlockedIndices": [
+                                                1
+                                            ],
+                                            "hidden": false,
+                                            "name": "ii"
+                                        },
+                                        "iii": {
+                                            "lockIndex": 0,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": true,
+                                            "name": "iii"
+                                        },
+                                        "iv": {
+                                            "lockIndex": 0,
+                                            "unlocked": false,
+                                            "unlockedIndices": [],
+                                            "hidden": true,
+                                            "name": "iv"
+                                        }
+                                    },
+                                    "requireMod": false,
+                                    "infiniteProgramCutoff": -1,
+                                    "sequenceLength": -1,
+                                    "sequenceMaxSteps": -1,
+                                    "numberMode": 0,
+                                    "showGoal": true
+                                },
+                                "version": 76,
+                                "solutionModified": true,
+                                "chipType": "lesson"
+                            },
+                            "script": null,
+                            "goals": null,
+                            "tags": null,
+                            "systemTags": null,
+                            "active": true,
+                            "status": 0,
+                            "originalChipHistoryId": null,
+                            "createdAt": "2020-12-18T19:19:37.000Z",
+                            "createdBy": 55657,
+                            "updatedAt": "2021-01-02T20:29:20.000Z",
+                            "updatedBy": 55657,
+                            "isEditable": false,
+                            "bucketId": null,
+                            "strings": {
+                                "en": {
+                                    "name": "Lesson Chip 3",
+                                    "description": "In this machine, Stack 2 gets your number, it multiplies it by 1 and then Poly returns the result. Change your number to satisfy the result!",
+                                    "stack1": "set number",
+                                    "stack2": "answer",
+                                    "stack3": "Set number",
+                                    "stack4": "your number"
+                                }
+                            },
+                            "description": null,
+                            "localId": 5,
+                            "id": 1422736,
+                            "userProgress": []
+                        }
+                    }
+                ],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473758,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": -3.82867432912049,
+                "y": 15.866489819345965,
+                "z": -1.650629318069956,
+                "rx": 1.5707963267948966,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T16:33:46.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:41:53.000Z",
+            "updatedBy": 55657,
+            "id": 1458680,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "6SrvXF6uK1HHdF6EXd9kPSTCa",
+                "shareId": "BYWRNH3",
+                "name": "star 15",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "origLib:basicParts,origId:1225719,colorable",
+                "active": true,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T16:33:46.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:34:37.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/Tutorial/meet_parts.json[star]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "star 15"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": "{\"color\":{\"type\":1008,\"data\":\"Color[128,255,0]\"}}",
+                "localId": 55,
+                "id": 1473758,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473789,
+            "parentMachineComponentId": 0,
+            "data": null,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0,
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T16:36:31.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:36:32.000Z",
+            "updatedBy": 55657,
+            "id": 1458711,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "XpGg06LHx1Kg0Thao2Bfhrkpx",
+                "shareId": "BYCV4UF",
+                "name": "5-square",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "colorable,origLib:flat,origId:1225831",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T16:36:31.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:36:33.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/FlatShapes/flatShapes.json[5-square]",
+                "bucketId": null,
+                "strings": {},
+                "description": null,
+                "type": 0,
+                "memory": null,
+                "localId": 56,
+                "id": 1473789,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473790,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": 4,
+                "y": 0,
+                "z": 16,
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T16:36:37.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:36:38.000Z",
+            "updatedBy": 55657,
+            "id": 1458712,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "UfhDjwDKyuXXMeg3s42utEwUD",
+                "shareId": "BR3PYUX",
+                "name": "6-hexagon",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "colorable,origLib:flat,origId:1225832",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T16:36:37.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:37:41.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/FlatShapes/flatShapes.json[6-hexagon]",
+                "bucketId": null,
+                "strings": {},
+                "description": null,
+                "type": 0,
+                "memory": "{\"color\":{\"type\":1008,\"data\":\"Color[180,248,85]\"}}",
+                "localId": 57,
+                "id": 1473790,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473791,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": 0,
+                "y": 0.1,
+                "z": 0,
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 12,
+                "sy": 12,
+                "sz": 12,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T16:36:54.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:40:08.000Z",
+            "updatedBy": 55657,
+            "id": 1458713,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "g8Yphmhnufxxo33svWCrAL0tk",
+                "shareId": "BCVFTSV",
+                "name": "7-octagon",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "colorable,origLib:flat,origId:1225833",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T16:36:54.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:40:18.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/FlatShapes/flatShapes.json[7-octagon]",
+                "bucketId": null,
+                "strings": {},
+                "description": null,
+                "type": 0,
+                "memory": null,
+                "localId": 58,
+                "id": 1473791,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473792,
+            "parentMachineComponentId": 1458718,
+            "data": null,
+            "position": {
+                "x": 0,
+                "y": 8.881784197001252e-16,
+                "z": -3.552713678800501e-15,
+                "rx": 0,
+                "ry": 1.5707963267948963,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "anchor": 2,
+                "rootAnchor": 3
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T16:37:07.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:37:56.000Z",
+            "updatedBy": 55657,
+            "id": 1458714,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "S270eKKgYn5La1gzCjkFNgms4",
+                "shareId": "BSSJXHN",
+                "name": "5-square",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "colorable,origLib:flat,origId:1225831",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T16:37:07.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:37:58.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/FlatShapes/flatShapes.json[5-square]",
+                "bucketId": null,
+                "strings": {},
+                "description": null,
+                "type": 0,
+                "memory": null,
+                "localId": 59,
+                "id": 1473792,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473794,
+            "parentMachineComponentId": -1,
+            "data": null,
+            "position": {
+                "x": 7.627224843880095,
+                "y": 0.5,
+                "z": 16,
+                "rx": 1.5707963267948966,
+                "ry": -0.7853981633974483,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "rootAnchor": -2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T16:37:20.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:37:50.000Z",
+            "updatedBy": 55657,
+            "id": 1458716,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "J1fUlBWZky7FRlqrX36BqaC5z",
+                "shareId": "BYAKWNX",
+                "name": "5-square 1",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "colorable,origLib:flat,origId:1225831",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T16:37:20.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:37:58.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/FlatShapes/flatShapes.json[5-square]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "5-square 1"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": null,
+                "localId": 60,
+                "id": 1473794,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473796,
+            "parentMachineComponentId": 1458716,
+            "data": null,
+            "position": {
+                "x": 0,
+                "y": -8.881784197001252e-16,
+                "z": -1.1102230246251565e-16,
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "anchor": 4,
+                "rootAnchor": 3
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T16:37:30.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:37:54.000Z",
+            "updatedBy": 55657,
+            "id": 1458718,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "k7GMQEboBgcgaRf7IWtAF250d",
+                "shareId": "B3WMU49",
+                "name": "5-square 2",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "colorable,origLib:flat,origId:1225831",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T16:37:30.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:37:58.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/FlatShapes/flatShapes.json[5-square]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "5-square 2"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": null,
+                "localId": 61,
+                "id": 1473796,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473798,
+            "parentMachineComponentId": 1458713,
+            "data": null,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0,
+                "rx": 1.5707963267948966,
+                "ry": 3.141592653589793,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "anchor": 0,
+                "rootAnchor": 4
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T16:38:01.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:38:06.000Z",
+            "updatedBy": 55657,
+            "id": 1458720,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "THCiBU1HKFm6Vk0BHxo7elXyF",
+                "shareId": "BUHHJXV",
+                "name": "7-octagon 1",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "colorable,origLib:flat,origId:1225833",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T16:38:01.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:39:51.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/FlatShapes/flatShapes.json[7-octagon]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "7-octagon 1"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": null,
+                "localId": 62,
+                "id": 1473798,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473799,
+            "parentMachineComponentId": 1458713,
+            "data": null,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": -4.860122733260077e-28,
+                "rx": 0,
+                "ry": -1.5707963267948963,
+                "rz": 1.5707963267948963,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "anchor": 2,
+                "rootAnchor": 6
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T16:38:11.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:38:35.000Z",
+            "updatedBy": 55657,
+            "id": 1458721,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "0SJcH4uWAQBtFkDD7OYJ0XyBz",
+                "shareId": "BCJXCFE",
+                "name": "7-octagon 2",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "colorable,origLib:flat,origId:1225833",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T16:38:11.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:39:42.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/FlatShapes/flatShapes.json[7-octagon]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "7-octagon 2"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": null,
+                "localId": 63,
+                "id": 1473799,
+                "chips": [],
+                "userProgress": []
+            }
+        },
+        {
+            "machineId": 121743,
+            "componentId": 1473800,
+            "parentMachineComponentId": 1458713,
+            "data": null,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0,
+                "rx": 0,
+                "ry": 1.5707963267948963,
+                "rz": -1.5707963267948963,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "anchor": 6,
+                "rootAnchor": 2
+            },
+            "isRoot": null,
+            "createdAt": "2020-12-21T16:38:46.000Z",
+            "createdBy": 55657,
+            "updatedAt": "2020-12-21T16:38:52.000Z",
+            "updatedBy": 55657,
+            "id": 1458722,
+            "component": {
+                "userAccountId": 55657,
+                "uuid": "ZFfKukb9q0MR9hUTlPgNRlL19",
+                "shareId": "BRWNETW",
+                "name": "7-octagon 3",
+                "data": null,
+                "grid": null,
+                "tags": null,
+                "systemTags": "colorable,origLib:flat,origId:1225833",
+                "active": false,
+                "status": 0,
+                "originalComponentHistoryId": null,
+                "createdAt": "2020-12-21T16:38:45.000Z",
+                "createdBy": 55657,
+                "updatedAt": "2020-12-21T16:39:39.000Z",
+                "updatedBy": 55657,
+                "isEditable": false,
+                "arData": null,
+                "modelId": "/assets/3d/FlatShapes/flatShapes.json[7-octagon]",
+                "bucketId": null,
+                "strings": {
+                    "en": {
+                        "name": "7-octagon 3"
+                    }
+                },
+                "description": null,
+                "type": 0,
+                "memory": null,
+                "localId": 64,
+                "id": 1473800,
+                "chips": [],
+                "userProgress": []
+            }
+        }
+    ],
+    "thumbnailUrl": "https://cdn.polyup.com/images/machine/thumbnail/mcehvvw.jpg",
+    "tags": [
+        {
+            "tagName": "v2",
+            "tagType": "Version",
+            "system": true
+        },
+        {
+            "tagName": "English",
+            "tagType": "Language",
+            "system": true
+        }
+    ],
+    "userProgress": [
+        {
+            "id": 4047349,
+            "userAccountId": 40,
+            "machineId": 121743,
+            "data": null,
+            "sessionUuid": null,
+            "createdAt": "2021-01-18T05:57:30.000Z",
+            "createdBy": 40,
+            "updatedAt": "2021-01-18T05:58:10.000Z",
+            "updatedBy": 40,
+            "completed": 0,
+            "moddingData": null,
+            "completedLessons": 0,
+            "completedGoals": 0,
+            "completedNoChips": 0,
+            "totalTime": 40,
+            "timeToComplete": 40
+        }
+    ]
+}
